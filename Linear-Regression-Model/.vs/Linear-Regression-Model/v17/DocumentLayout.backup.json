@@ -66,8 +66,8 @@
               "Title": "Train-Model.cpp",
               "DocumentMoniker": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Linear-Regression-Model\\Linear-Regression-Model\\Train-Model.cpp",
               "RelativeDocumentMoniker": "Linear-Regression-Model\\Train-Model.cpp",
-              "ToolTip": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Linear-Regression-Model\\Linear-Regression-Model\\Train-Model.cpp*",
-              "RelativeToolTip": "Linear-Regression-Model\\Train-Model.cpp*",
+              "ToolTip": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Linear-Regression-Model\\Linear-Regression-Model\\Train-Model.cpp",
+              "RelativeToolTip": "Linear-Regression-Model\\Train-Model.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-17T17:12:25.912Z",
@@ -95,8 +95,7 @@
               "RelativeToolTip": "Linear-Regression-Model\\Compute-Cost.cpp",
               "ViewState": "AgIAAAAAAAAAZmZmZmYOwAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-17T17:10:04.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T17:10:04.524Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "Linear-Regression-Model\\Compute-Model.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-17T17:09:10.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T17:09:10.328Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "Linear-Regression-Model\\Main-Menu.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-17T17:07:41.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T17:07:41.063Z"
             }
           ]
         }
