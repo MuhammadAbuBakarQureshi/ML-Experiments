@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DFE4B0C0-1203-4545-B3E9-4A7308B6EFAF}|Logistic-Regression-Model\\Logistic-Regression-Model.vcxproj|I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Components\\02-Gradient-Descent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFE4B0C0-1203-4545-B3E9-4A7308B6EFAF}|Logistic-Regression-Model\\Logistic-Regression-Model.vcxproj|solutionrelative:Logistic-Regression-Model\\Components\\02-Gradient-Descent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE4B0C0-1203-4545-B3E9-4A7308B6EFAF}|Logistic-Regression-Model\\Logistic-Regression-Model.vcxproj|I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Components\\01-Compute-Cost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFE4B0C0-1203-4545-B3E9-4A7308B6EFAF}|Logistic-Regression-Model\\Logistic-Regression-Model.vcxproj|solutionrelative:Logistic-Regression-Model\\Components\\01-Compute-Cost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DFE4B0C0-1203-4545-B3E9-4A7308B6EFAF}|Logistic-Regression-Model\\Logistic-Regression-Model.vcxproj|I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Logistic-Regression-Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DFE4B0C0-1203-4545-B3E9-4A7308B6EFAF}|Logistic-Regression-Model\\Logistic-Regression-Model.vcxproj|solutionrelative:Logistic-Regression-Model\\Logistic-Regression-Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -24,14 +32,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DFE4B0C0-1203-4545-B3E9-4A7308B6EFAF}|Logistic-Regression-Model\\Logistic-Regression-Model.vcxproj|I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Components\\00-Compute-Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DFE4B0C0-1203-4545-B3E9-4A7308B6EFAF}|Logistic-Regression-Model\\Logistic-Regression-Model.vcxproj|solutionrelative:Logistic-Regression-Model\\Components\\00-Compute-Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFE4B0C0-1203-4545-B3E9-4A7308B6EFAF}|Logistic-Regression-Model\\Logistic-Regression-Model.vcxproj|I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Components\\02-Gradient-Descent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFE4B0C0-1203-4545-B3E9-4A7308B6EFAF}|Logistic-Regression-Model\\Logistic-Regression-Model.vcxproj|solutionrelative:Logistic-Regression-Model\\Components\\02-Gradient-Descent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFE4B0C0-1203-4545-B3E9-4A7308B6EFAF}|Logistic-Regression-Model\\Logistic-Regression-Model.vcxproj|I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Components\\01-Compute-Cost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFE4B0C0-1203-4545-B3E9-4A7308B6EFAF}|Logistic-Regression-Model\\Logistic-Regression-Model.vcxproj|solutionrelative:Logistic-Regression-Model\\Components\\01-Compute-Cost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,17 +41,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Logistic-Regression-Model.cpp",
               "DocumentMoniker": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Logistic-Regression-Model.cpp",
               "RelativeDocumentMoniker": "Logistic-Regression-Model\\Logistic-Regression-Model.cpp",
               "ToolTip": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Logistic-Regression-Model.cpp",
               "RelativeToolTip": "Logistic-Regression-Model\\Logistic-Regression-Model.cpp",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-15T02:30:52.437Z",
               "IsPinned": true,
@@ -67,18 +67,17 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "vector",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
               "ViewState": "AgIAAE4IAAAAAAAAAAArwGAIAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-15T09:26:54.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T09:26:54.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Threshold.cpp",
               "DocumentMoniker": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Components\\Threshold.cpp",
               "RelativeDocumentMoniker": "Logistic-Regression-Model\\Components\\Threshold.cpp",
@@ -86,12 +85,11 @@
               "RelativeToolTip": "Logistic-Regression-Model\\Components\\Threshold.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-15T07:56:11.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T07:56:11.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Train_Model.cpp",
               "DocumentMoniker": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Components\\Train_Model.cpp",
               "RelativeDocumentMoniker": "Logistic-Regression-Model\\Components\\Train_Model.cpp",
@@ -99,38 +97,37 @@
               "RelativeToolTip": "Logistic-Regression-Model\\Components\\Train_Model.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-15T07:29:45.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T07:29:45.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "02-Gradient-Descent.cpp",
               "DocumentMoniker": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Components\\02-Gradient-Descent.cpp",
               "RelativeDocumentMoniker": "Logistic-Regression-Model\\Components\\02-Gradient-Descent.cpp",
               "ToolTip": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Components\\02-Gradient-Descent.cpp",
               "RelativeToolTip": "Logistic-Regression-Model\\Components\\02-Gradient-Descent.cpp",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwB8AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-15T07:20:00.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "01-Compute-Cost.cpp",
               "DocumentMoniker": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Components\\01-Compute-Cost.cpp",
               "RelativeDocumentMoniker": "Logistic-Regression-Model\\Components\\01-Compute-Cost.cpp",
               "ToolTip": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Components\\01-Compute-Cost.cpp",
               "RelativeToolTip": "Logistic-Regression-Model\\Components\\01-Compute-Cost.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-15T06:50:49.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Components.h",
               "DocumentMoniker": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Components.h",
               "RelativeDocumentMoniker": "Logistic-Regression-Model\\Components.h",
@@ -138,12 +135,11 @@
               "RelativeToolTip": "Logistic-Regression-Model\\Components.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-15T03:09:59.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T03:09:59.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "00-Compute-Model.cpp",
               "DocumentMoniker": "I:\\IIUI university\\CODING\\Languages\\PYTHON\\ML-Experiments\\Logistic-Regression-Model\\Logistic-Regression-Model\\Components\\00-Compute-Model.cpp",
               "RelativeDocumentMoniker": "Logistic-Regression-Model\\Components\\00-Compute-Model.cpp",
@@ -151,8 +147,7 @@
               "RelativeToolTip": "Logistic-Regression-Model\\Components\\00-Compute-Model.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-15T02:32:37.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T02:32:37.56Z"
             }
           ]
         }
