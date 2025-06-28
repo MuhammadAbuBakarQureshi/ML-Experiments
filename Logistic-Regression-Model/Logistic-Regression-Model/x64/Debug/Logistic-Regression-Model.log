@@ -1,2 +1,9 @@
-﻿  Logistic-Regression-Model.cpp
+﻿  00-Compute-Model.cpp
+  01-Compute-Cost.cpp
+I:\IIUI university\CODING\Languages\PYTHON\ML-Experiments\Logistic-Regression-Model\Logistic-Regression-Model\Components\01-Compute-Cost.cpp(10,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  02-Gradient-Descent.cpp
+  Threshold.cpp
+  Train_Model.cpp
+  Logistic-Regression-Model.cpp
+  Generating Code...
   Logistic-Regression-Model.vcxproj -> I:\IIUI university\CODING\Languages\PYTHON\ML-Experiments\Logistic-Regression-Model\x64\Debug\Logistic-Regression-Model.exe
